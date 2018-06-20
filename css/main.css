@@ -5,21 +5,7 @@ font-family: vij;
 }
 
 /* Navbar */
-.w3-bar{width:100%;overflow:hidden}
-.w3-bar .w3-bar-item{
-	padding:8px 16px;
-	float:left;
-	width:auto;
-	border:none;display:block;
-	outline:0;
-	color: #F8F8FF;
-}
 
-	.w3-button:hover{
-		color:#F8F8FF;
-		background-color: #0d0d0d;
-		text-decoration: none;
-	}
 	.bgcolornav{
 		 	background-color: #606060;
 
