@@ -14,7 +14,7 @@ font-family: vij;
 	outline:0;
 	color: #F8F8FF;
 }
-	
+
 	.w3-button:hover{
 		color:#F8F8FF;
 		background-color: #0d0d0d;
@@ -22,7 +22,7 @@ font-family: vij;
 	}
 	.bgcolornav{
 		 	background-color: #606060;
-		 	
+
 	}
 	/*0000000000000000000*/
 
@@ -41,7 +41,7 @@ body{
 	 max-width:100%;
 	max-height: 100%;
 
-	 
+
 	}
 	.carousel-caption h3,.carousel-caption p{
 		color: #dbd227;
@@ -57,7 +57,7 @@ body{
 	.nav-link{
 		color: #fff !important;
 		font-size: 130% ;
-		
+
 	}
 	.nav-link:hover{
 		text-decoration: underline ;
