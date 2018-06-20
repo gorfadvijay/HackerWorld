@@ -9,9 +9,21 @@ font-family: vij;
 	.bgcolornav{
 		 	background-color: #606060;
 
-	}
-	/*0000000000000000000*/
+		}
 
+		.login{
+				background-color: rgb(9, 199, 182);
+						color: rgb(10, 10, 10) ;
+				font-size: 25px !important;
+		}
+		login .btn{
+			height:50px;
+			width: 1349px;
+		}
+
+
+	/*0000000000000000000*/
+rgb(9, 199, 182)
 
 	html{
 	margin-top: 0px;
