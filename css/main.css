@@ -3,7 +3,11 @@
 src: url(../Font/vij.ttf);
 font-family: vij;
 }
+@font-face{
 
+src: url(../Font/PT_sans.ttf);
+font-family: PT_sans;
+}
 /* Navbar */
 
 	.bgcolornav{
@@ -23,14 +27,14 @@ font-family: vij;
 
 
 	/*0000000000000000000*/
-rgb(9, 199, 182)
+
 
 	html{
 	margin-top: 0px;
 }
 
 body{
-	font-family: vij;
+	font-family: PT_sans;
 }
 
  .carousel-item img{
