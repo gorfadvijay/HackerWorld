@@ -8,10 +8,11 @@ body, html {
   margin: 0;
   padding: 0;
   height: 100%; }
+ .img-container img{
+      width:100%;
+  }
 
-img {
-  width: 100%; 
-}
+
 
 .container {
   margin: auto;
@@ -26,7 +27,8 @@ body {
 @media screen and (max-width: 760px) {
   .container {
     padding-right: 25px;
-    padding-left: 25px; } }
+    padding-left: 25px;
+    padding-top:100px;} }
 
 .section-title {
   font-size: 36px;
